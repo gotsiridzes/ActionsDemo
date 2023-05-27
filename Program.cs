@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Github Actions World!")
+Console.WriteLine("Hello, Github Actions World!");
